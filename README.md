@@ -1,4 +1,4 @@
-# Azure Monitoring & Logging with Azure Monitor and Log Analytics
+# Monitoring & Logging with Azure Monitor and Log Analytics
 
 ## 🚀 Skills Demonstrated (Overview)
 - Collecting and analyzing metrics, logs, and diagnostic data
